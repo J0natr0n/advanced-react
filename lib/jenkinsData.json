@@ -1,0 +1,322 @@
+{
+    "assignedLabels": [{}],
+    "mode": "NORMAL",
+    "nodeDescription": "the master Jenkins node",
+    "nodeName": "",
+    "numExecutors": 20,
+    "description": null,
+    "jobs": [{
+        "name": "AEM Component Report",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/AEM%20Component%20Report/",
+        "color": "blue"
+    }, {
+        "name": "AEM Search Index Monitor",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/AEM%20Search%20Index%20Monitor/",
+        "color": "blue"
+    }, {
+        "name": "Automation Trigger",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Automation%20Trigger/",
+        "color": "blue"
+    }, {
+        "name": "Behave",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Behave/",
+        "color": "blue"
+    }, {
+        "name": "Behave Matrix",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Behave%20Matrix/",
+        "color": "blue"
+    }, {
+        "name": "BRE API",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/BRE%20API/",
+        "color": "blue"
+    }, {
+        "name": "Buy Button Monitor",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Buy%20Button%20Monitor/",
+        "color": "blue"
+    }, {
+        "name": "Code Report",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Code%20Report/",
+        "color": "blue"
+    }, {
+        "name": "Contact Us 3.0 Matrix DEV",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Contact%20Us%203.0%20Matrix%20DEV/",
+        "color": "red"
+    }, {
+        "name": "Contact Us 3.0 Matrix PROD",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Contact%20Us%203.0%20Matrix%20PROD/",
+        "color": "red"
+    }, {
+        "name": "Cucumber",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Cucumber/",
+        "color": "blue"
+    }, {
+        "name": "Cucumber Matrix",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Cucumber%20Matrix/",
+        "color": "blue"
+    }, {
+        "name": "Helpx Template Monitor",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Helpx%20Template%20Monitor/",
+        "color": "red"
+    }, {
+        "name": "Helpx Template Monitor Matrix",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Helpx%20Template%20Monitor%20Matrix/",
+        "color": "red_anime"
+    }, {
+        "name": "Helpx Template Monitor2",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Helpx%20Template%20Monitor2/",
+        "color": "blue_anime"
+    }, {
+        "name": "Helpx UI Daily Run",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Helpx%20UI%20Daily%20Run/",
+        "color": "red"
+    }, {
+        "name": "Helpx UI Daily Run On Author",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Helpx%20UI%20Daily%20Run%20On%20Author/",
+        "color": "red"
+    }, {
+        "name": "Helpx UI Daily Run On Author Content Sync",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Helpx%20UI%20Daily%20Run%20On%20Author%20Content%20Sync/",
+        "color": "red"
+    }, {
+        "name": "Helpx UI Daily Run Template Marix",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Helpx%20UI%20Daily%20Run%20Template%20Marix/",
+        "color": "red"
+    }, {
+        "name": "Helpx UI ENV Marix",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Helpx%20UI%20ENV%20Marix/",
+        "color": "red"
+    }, {
+        "name": "Helpx UI Tests",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Helpx%20UI%20Tests/",
+        "color": "red"
+    }, {
+        "name": "Helpx UI Tests By Trigger",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Helpx%20UI%20Tests%20By%20Trigger/",
+        "color": "blue"
+    }, {
+        "name": "Helpx UI Tests On Author",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Helpx%20UI%20Tests%20On%20Author/",
+        "color": "blue"
+    }, {
+        "name": "Helpx UI Tests Without TestSuite",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Helpx%20UI%20Tests%20Without%20TestSuite/",
+        "color": "red"
+    }, {
+        "name": "Icon Service",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Icon%20Service/",
+        "color": "red"
+    }, {
+        "name": "Instance Sitemap Status",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Instance%20Sitemap%20Status/",
+        "color": "blue"
+    }, {
+        "name": "Issue Reporter",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Issue%20Reporter/",
+        "color": "blue"
+    }, {
+        "name": "JIRA CSV Export",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/JIRA%20CSV%20Export/",
+        "color": "blue"
+    }, {
+        "name": "JIRA CSV Export All",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/JIRA%20CSV%20Export%20All/",
+        "color": "blue"
+    }, {
+        "name": "Jira Epic Report",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Jira%20Epic%20Report/",
+        "color": "blue"
+    }, {
+        "name": "JIRA Test Case Export",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/JIRA%20Test%20Case%20Export/",
+        "color": "blue"
+    }, {
+        "name": "JIRA Time Report",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/JIRA%20Time%20Report/",
+        "color": "blue"
+    }, {
+        "name": "JIRA Time Spent Report",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/JIRA%20Time%20Spent%20Report/",
+        "color": "blue"
+    }, {
+        "name": "More Help Monitor",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/More%20Help%20Monitor/",
+        "color": "blue"
+    }, {
+        "name": "Product Details Checker",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Product%20Details%20Checker/",
+        "color": "blue"
+    }, {
+        "name": "Robot Framework",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Robot%20Framework/",
+        "color": "blue"
+    }, {
+        "name": "Robot Framework Matrix",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Robot%20Framework%20Matrix/",
+        "color": "red"
+    }, {
+        "name": "Screenshot Compare Daily",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Screenshot%20Compare%20Daily/",
+        "color": "red"
+    }, {
+        "name": "ScreenshotCompare",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/ScreenshotCompare/",
+        "color": "red"
+    }, {
+        "name": "ScreenshotCompareAll",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/ScreenshotCompareAll/",
+        "color": "blue"
+    }, {
+        "name": "ScreenshotCompareAll for 2 envs",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/ScreenshotCompareAll%20for%202%20envs/",
+        "color": "red"
+    }, {
+        "name": "ScreenshotCompareMany",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/ScreenshotCompareMany/",
+        "color": "blue"
+    }, {
+        "name": "ScreenshotCompareManyLoc",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/ScreenshotCompareManyLoc/",
+        "color": "blue"
+    }, {
+        "name": "ScreenshotComparePrepare",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/ScreenshotComparePrepare/",
+        "color": "red"
+    }, {
+        "name": "ScreenshotLinkTable",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/ScreenshotLinkTable/",
+        "color": "blue"
+    }, {
+        "name": "ScreenshotTaker",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/ScreenshotTaker/",
+        "color": "red"
+    }, {
+        "name": "ScreenshotTaker Viewer",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/ScreenshotTaker%20Viewer/",
+        "color": "blue"
+    }, {
+        "name": "ScreenshotTemplates",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/ScreenshotTemplates/",
+        "color": "blue"
+    }, {
+        "name": "ScreenshotTemplatesJP",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/ScreenshotTemplatesJP/",
+        "color": "blue"
+    }, {
+        "name": "Sitemap Link Check - Grid",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Sitemap%20Link%20Check%20-%20Grid/",
+        "color": "blue"
+    }, {
+        "name": "Sitemap Link Check - Grid - Dev",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Sitemap%20Link%20Check%20-%20Grid%20-%20Dev/",
+        "color": "blue"
+    }, {
+        "name": "Sitemap Link Check - Grid - Internal",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Sitemap%20Link%20Check%20-%20Grid%20-%20Internal/",
+        "color": "blue"
+    }, {
+        "name": "Sitemap Link Check - Grid - Internal QA",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Sitemap%20Link%20Check%20-%20Grid%20-%20Internal%20QA/",
+        "color": "blue"
+    }, {
+        "name": "Sitemap Link Check - Grid - QA",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Sitemap%20Link%20Check%20-%20Grid%20-%20QA/",
+        "color": "blue"
+    }, {
+        "name": "Sitemap Link Check - Grid - Stage",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Sitemap%20Link%20Check%20-%20Grid%20-%20Stage/",
+        "color": "blue"
+    }, {
+        "name": "Sitemap Status",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Sitemap%20Status/",
+        "color": "blue"
+    }, {
+        "name": "Solr API Test Matrix",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Solr%20API%20Test%20Matrix/",
+        "color": "blue"
+    }, {
+        "name": "SolrAPITest",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/SolrAPITest/",
+        "color": "blue"
+    }, {
+        "name": "SolrData",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/SolrData/",
+        "color": "red"
+    }, {
+        "name": "Sophia API Monitor",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Sophia%20API%20Monitor/",
+        "color": "blue"
+    }, {
+        "name": "Spark Server Monitor",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Spark%20Server%20Monitor/",
+        "color": "blue"
+    }, {
+        "name": "Splunk_Error_404",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Splunk_Error_404/",
+        "color": "blue"
+    }, {
+        "name": "Splunk_On_Demand",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Splunk_On_Demand/",
+        "color": "blue"
+    }, {
+        "name": "Splunk_On_Schedule",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Splunk_On_Schedule/",
+        "color": "blue"
+    }, {
+        "name": "Sprint Commit Report",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Sprint%20Commit%20Report/",
+        "color": "blue"
+    }, {
+        "name": "Sprint Report",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Sprint%20Report/",
+        "color": "blue"
+    }, {
+        "name": "Trigger Test",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Trigger%20Test/",
+        "color": "blue"
+    }, {
+        "name": "Worklog Report",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/job/Worklog%20Report/",
+        "color": "blue"
+    }],
+    "overallLoad": {},
+    "primaryView": {
+        "name": "All",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/"
+    },
+    "quietingDown": false,
+    "slaveAgentPort": 0,
+    "unlabeledLoad": {},
+    "useCrumbs": false,
+    "useSecurity": true,
+    "views": [{
+        "name": "All",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/"
+    }, {
+        "name": "Author",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/view/Author/"
+    }, {
+        "name": "Commit Triggered",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/view/Commit%20Triggered/"
+    }, {
+        "name": "Link Checker",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/view/Link%20Checker/"
+    }, {
+        "name": "Monitors",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/view/Monitors/"
+    }, {
+        "name": "Publish",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/view/Publish/"
+    }, {
+        "name": "Reporting",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/view/Reporting/"
+    }, {
+        "name": "Tools",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/view/Tools/"
+    }, {
+        "name": "_API",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/view/_API/"
+    }, {
+        "name": "_Prototype",
+        "url": "http://sj1010005188050.corp.adobe.com:8080/jenkins/view/_Prototype/"
+    }]
+}
